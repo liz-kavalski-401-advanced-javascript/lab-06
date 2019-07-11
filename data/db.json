@@ -27,6 +27,10 @@
       "description": "super nice",
       "display_name": "a thing",
       "name": "animal"
+    },
+    {
+      "category": "json-server",
+      "id": 4
     }
   ]
 }
