@@ -20,6 +20,17 @@
       "name": "typicode",
       "display_name": "something",
       "description": "world"
+    },
+    {
+      "id": 2,
+      "category": "Max",
+      "description": "super nice",
+      "display_name": "a thing",
+      "name": "animal"
+    },
+    {
+      "category": "json-server",
+      "id": 4
     }
   ]
 }
