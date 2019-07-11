@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "json-server",
+      "display_name": "typicode",
+      "description": "hello"
+    },
+    {
+      "id": 1,
+      "description": "super nice",
+      "display_name": "a thing",
+      "name": "Max"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "json-server",
+      "name": "typicode",
+      "display_name": "something",
+      "description": "world"
+    }
+  ]
+}
