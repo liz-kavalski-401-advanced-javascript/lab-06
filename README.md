@@ -3,8 +3,8 @@
 ### Author: Liz Kavalski
 
 ### Links and Resources
-* [submission PR](https://github.com/liz-kavalski-401-advanced-javascript/lab-06-simple-api/pull/30)
-* [CodeSandbox](https://github.com/liz-kavalski-401-advanced-javascript/lab-06-simple-api/pull/30) 
+* [submission PR](https://github.com/liz-kavalski-401-advanced-javascript/lab-06-simple-api/pull/3)
+* [CodeSandbox](https://codesandbox.io/s/api-client-o2c16) 
 
 #### Documentation
 * [Swagger docs](https://app.swaggerhub.com/apis/lizkavalski/lab-06-simple-api/0.1) 
