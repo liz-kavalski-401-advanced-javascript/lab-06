@@ -10,14 +10,8 @@
 * [Swagger docs](https://app.swaggerhub.com/apis/lizkavalski/lab-06-simple-api/0.1) 
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+#### `db.json`
+Input of fake data
 
 ### Setup
 #### `.env` requirements
@@ -25,16 +19,15 @@ Usage Notes or examples
 * `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* Endpoint: `/categories 
+ should GET, POST a categories
+* Endpoint: /categories/:id/ 
+should PUT, DELETE a category(ies) by id.
+* Endpoint: /products 
+Should GET, POST products
+* Endpoint: /products/:id/`
+Should PUT, DELETE products by id.
   
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
 
 #### UML
 ![UML](https://github.com/liz-kavalski-401-advanced-javascript/lab-06-simple-api/blob/master/UML-lab6.jpg)
